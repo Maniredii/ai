@@ -1,4 +1,4 @@
-# AI Career Mentor
+# **AI Career Mentor**
 
 An intelligent career development platform that provides personalized guidance, resume analysis, and interview preparation using advanced AI technology.
 
